@@ -1,0 +1,426 @@
+[
+    {
+      "question": "What is the capital of Japan?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Which city serves as the capital of Brazil?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Name the capital of Australia.",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "In which country is Vienna the capital?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the capital city of South Africa?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Identify the capital of Argentina.",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Name the capital of Canada.",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Which city is the capital of Russia?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Name the capital of Mexico.",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 5
+    }
+,
+    {
+      "question": "What is the powerhouse of the cell?",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Name the process by which plants make their own food.",
+      "subject": "Biology",
+      "topic": "Photosynthesis",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Identify the smallest unit of life.",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the function of red blood cells in the human body?",
+      "subject": "Biology",
+      "topic": "Human Anatomy",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Name the process by which DNA is copied.",
+      "subject": "Biology",
+      "topic": "Genetics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Which gas do plants absorb during photosynthesis?",
+      "subject": "Biology",
+      "topic": "Photosynthesis",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the role of enzymes in biological reactions?",
+      "subject": "Biology",
+      "topic": "Biochemistry",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Name the body's primary organ for detoxification.",
+      "subject": "Biology",
+      "topic": "Human Anatomy",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the basic unit of heredity?",
+      "subject": "Biology",
+      "topic": "Genetics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Identify the major components of the human respiratory system.",
+      "subject": "Biology",
+      "topic": "Human Anatomy",
+      "difficulty": "Medium",
+      "marks": 10
+    }
+,
+    {
+      "question": "What does HTML stand for?",
+      "subject": "Computer Science",
+      "topic": "Web Development",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Explain the difference between a compiler and an interpreter.",
+      "subject": "Computer Science",
+      "topic": "Programming Languages",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Name a popular version control system used in software development.",
+      "subject": "Computer Science",
+      "topic": "Software Engineering",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the purpose of an operating system?",
+      "subject": "Computer Science",
+      "topic": "Operating Systems",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Explain the concept of polymorphism in object-oriented programming.",
+      "subject": "Computer Science",
+      "topic": "Object-Oriented Programming",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "What is the significance of the Turing machine in computer science?",
+      "subject": "Computer Science",
+      "topic": "Theory of Computation",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Name a commonly used database management system.",
+      "subject": "Computer Science",
+      "topic": "Databases",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Define the term 'algorithm' in the context of computer science.",
+      "subject": "Computer Science",
+      "topic": "Algorithms",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the purpose of a firewall in network security?",
+      "subject": "Computer Science",
+      "topic": "Network Security",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the difference between HTTP and HTTPS.",
+      "subject": "Computer Science",
+      "topic": "Web Security",
+      "difficulty": "Hard",
+      "marks": 10
+    }
+  , {
+      "question": "Define Newton's first law of motion.",
+      "subject": "Physics",
+      "topic": "Classical Mechanics",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the equation for calculating kinetic energy?",
+      "subject": "Physics",
+      "topic": "Energy and Work",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Explain the concept of wave-particle duality in quantum mechanics.",
+      "subject": "Physics",
+      "topic": "Quantum Mechanics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Name the fundamental forces in the universe.",
+      "subject": "Physics",
+      "topic": "Particle Physics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the relationship between frequency and wavelength in a wave?",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Define the concept of electric potential energy.",
+      "subject": "Physics",
+      "topic": "Electricity and Magnetism",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Explain the laws of thermodynamics.",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "What is the formula for calculating gravitational force between two objects?",
+      "subject": "Physics",
+      "topic": "Gravity",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Describe the Doppler effect in the context of waves.",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Explain the concept of special relativity.",
+      "subject": "Physics",
+      "topic": "Relativity",
+      "difficulty": "Hard",
+      "marks": 10
+    }
+  , {
+      "question": "What is the general structure of an alkane?",
+      "subject": "Organic Chemistry",
+      "topic": "Hydrocarbons",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Explain the concept of chirality in organic molecules.",
+      "subject": "Organic Chemistry",
+      "topic": "Stereochemistry",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Name a common functional group in alcohols.",
+      "subject": "Organic Chemistry",
+      "topic": "Functional Groups",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the mechanism of an SN1 reaction?",
+      "subject": "Organic Chemistry",
+      "topic": "Reaction Mechanisms",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Define resonance in organic chemistry.",
+      "subject": "Organic Chemistry",
+      "topic": "Resonance",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Name a common aromatic hydrocarbon.",
+      "subject": "Organic Chemistry",
+      "topic": "Aromatic Compounds",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Explain the concept of tautomerism.",
+      "subject": "Organic Chemistry",
+      "topic": "Isomerism",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "What is the function of a catalyst in a chemical reaction?",
+      "subject": "Organic Chemistry",
+      "topic": "Catalysis",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Describe the structure of an amino acid.",
+      "subject": "Organic Chemistry",
+      "topic": "Bioorganic Chemistry",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Name a common polymer used in everyday products.",
+      "subject": "Organic Chemistry",
+      "topic": "Polymers",
+      "difficulty": "Hard",
+      "marks": 10
+    }
+  ,{
+      "question": "Explain the concept of Gibbs free energy in thermodynamics.",
+      "subject": "Physical Chemistry",
+      "topic": "Thermodynamics",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Define the term 'molar mass' in the context of chemistry.",
+      "subject": "Physical Chemistry",
+      "topic": "Chemical Kinetics",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the first law of thermodynamics?",
+      "subject": "Physical Chemistry",
+      "topic": "Thermodynamics",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Explain the principles of quantum mechanics and its application in chemistry.",
+      "subject": "Physical Chemistry",
+      "topic": "Quantum Chemistry",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Define the term 'equilibrium constant' in chemical reactions.",
+      "subject": "Physical Chemistry",
+      "topic": "Chemical Equilibrium",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the significance of the Arrhenius equation in chemical kinetics?",
+      "subject": "Physical Chemistry",
+      "topic": "Chemical Kinetics",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Explain the concept of molecular orbital theory.",
+      "subject": "Physical Chemistry",
+      "topic": "Molecular Structure",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Define the term 'ionization energy' and its trends in the periodic table.",
+      "subject": "Physical Chemistry",
+      "topic": "Atomic Structure",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the role of a catalyst in a chemical reaction?",
+      "subject": "Physical Chemistry",
+      "topic": "Catalysis",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the concept of entropy in thermodynamics.",
+      "subject": "Physical Chemistry",
+      "topic": "Thermodynamics",
+      "difficulty": "Hard",
+      "marks": 10
+    }
+  ]
+
+  
