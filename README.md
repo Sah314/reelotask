@@ -6,6 +6,7 @@
 <p align="center">
   <a href="#">Project Info</a> •
   <a href="#">How To Use</a> •
+  <a href="#">Endpoints</a> •
   <a href="#">Contact</a>
 </p>
 
@@ -42,6 +43,17 @@ MONGODB_URI=mongodb+srv://username:password@cluster0.v5xgni0.mongodb.net/reelo?r
 $ node index.js
 ```
 
+## Endpoints
+
+The Application has 2 endpoints right now, 
+1. To add new questions.
+```
+/addquestion
+```
+2. Get the questionpaper
+```
+/getquestionpaper
+```
 ## Contact
 
 > GitHub [Sahil Khadayate ](https://github.com/Sah314) &nbsp;&middot;&nbsp;
