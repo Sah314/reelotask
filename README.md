@@ -4,10 +4,10 @@
  </h1>
 
 <p align="center">
-  <a href="#">Project Info</a> •
-  <a href="#">How To Use</a> •
-  <a href="#">Endpoints</a> •
-  <a href="#">Contact</a>
+  <a href="#Project Info">Project Info</a> •
+  <a href="#How To Use">How To Use</a> •
+  <a href="Endpoints">Endpoints</a> •
+  <a href="#Contact">Contact</a>
 </p>
 
 
